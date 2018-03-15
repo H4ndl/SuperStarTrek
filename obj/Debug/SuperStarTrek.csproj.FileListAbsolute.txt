@@ -1,0 +1,6 @@
+C:\Users\VizCenter\source\repos\SuperStarTrek\SuperStarTrek\bin\Debug\SuperStarTrek.dll
+C:\Users\VizCenter\source\repos\SuperStarTrek\SuperStarTrek\bin\Debug\SuperStarTrek.pdb
+C:\Users\VizCenter\source\repos\SuperStarTrek\SuperStarTrek\obj\Debug\SuperStarTrek.csprojResolveAssemblyReference.cache
+C:\Users\VizCenter\source\repos\SuperStarTrek\SuperStarTrek\obj\Debug\SuperStarTrek.csproj.CoreCompileInputs.cache
+C:\Users\VizCenter\source\repos\SuperStarTrek\SuperStarTrek\obj\Debug\SuperStarTrek.dll
+C:\Users\VizCenter\source\repos\SuperStarTrek\SuperStarTrek\obj\Debug\SuperStarTrek.pdb
